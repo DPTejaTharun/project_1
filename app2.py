@@ -1,2 +1,2 @@
-a=93
+a="Teja Tharun"
 print(a)
