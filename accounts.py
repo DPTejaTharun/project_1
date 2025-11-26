@@ -1,5 +1,3 @@
-marks = 83
-if marks = 80:
-    print("Topper of the class")
-else:
-    print("Fail")
+marks = 35
+if marks >= 35:
+    print("All the students are passed in the class")
