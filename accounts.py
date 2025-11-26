@@ -1,3 +1,5 @@
-marks = 35
-if marks >= 35:
-    print("All the students are passed in the class")
+num =int(input("enter the number"))
+if num % 2 ==0:
+    print("even number)
+else:
+    print("odd number")
