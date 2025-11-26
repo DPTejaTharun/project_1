@@ -1,5 +1,5 @@
-num =int(input("enter the number"))
+num =float(input("enter the number"))
 if num % 2 ==0:
-    print("even number)
+    print("even number")
 else:
     print("odd number")
